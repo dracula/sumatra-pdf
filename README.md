@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found [here](./INSTALL.md).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![TheForgotten](https://github.com/TheForgottened.png?size=100)](https://github.com/TheForgottened) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[TheForgotten](https://github.com/TheForgottened) |
 
 ## License
 
