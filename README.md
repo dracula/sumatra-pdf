@@ -10,7 +10,7 @@ All instructions can be found [here](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/TheForgottened/sumatra-pdf/graphs/contributors).
 
 [![TheForgotten](https://github.com/TheForgottened.png?size=100)](https://github.com/TheForgottened) |
 --- |
