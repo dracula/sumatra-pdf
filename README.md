@@ -6,11 +6,11 @@
 
 ## Install
 
-All instructions can be found [here](./INSTALL.md).
+All instructions can be found [draculatheme.com/sumatra-pdf](https://draculatheme.com/sumatra-pdf).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/TheForgottened/sumatra-pdf/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/sumatra-pdf/graphs/contributors).
 
 [![TheForgotten](https://github.com/TheForgottened.png?size=100)](https://github.com/TheForgottened) |
 --- |

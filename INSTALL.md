@@ -4,12 +4,12 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/TheForgottened/sumatra-pdf.git
+    $ git clone https://github.com/dracula/sumatra-pdf.git
 
 #### Install manually
 
-* Download using the [Dracula.txt](https://raw.githubusercontent.com/TheForgottened/sumatra-pdf/master/Dracula.txt) link or
-* Download using the [GitHub .zip download](https://github.com/TheForgottened/sumatra-pdf/archive/master.zip) option and unzip them.
+* Download using the [Dracula.txt](https://raw.githubusercontent.com/dracula/sumatra-pdf/master/Dracula.txt) link or
+* Download using the [GitHub .zip download](https://github.com/dracula/sumatra-pdf/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
